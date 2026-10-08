@@ -1,0 +1,18 @@
+Template-Type: ReDIF-Paper 1.0
+Title: Religious Adherence and Local Income: Evidence from U.S. Counties
+Author-Name: James Horton
+Author-Email: jhorton@methodist.edu
+Author-Workplace-Name: Methodist University, Charles M. Reeves School of Business and Economics
+Author-Person: pho892
+Author-Name: Jamie Bologna Pavlik
+Author-Email: jamie.bologna@ttu.edu
+Author-Workplace-Name: Texas Tech University, Free Market Institute
+Abstract: This paper examines how large, sustained changes in the share of religious adherents affect county-level income in the United States using a stacked difference-in-differences design with inverse propensity score weights. Counties with large declines in adherent shares experience a roughly four percent decline in net income per capita at the time of treatment and a seven percent decline a decade later. The effects of increases in adherents are positive but slower to appear, with income rising by five to seven percent after one to two decades. Part of this relationship reflects changes in county demographics. Increases in adherents are accompanied by increases in the retirement-age population and, in turn, Social Security, Medicare, and asset income. Declines produce the opposite pattern. However, demographics do not explain the full effect. Jobs and net earnings per capita also rise with increases in adherents and fall with declines, and these results hold once we exclude counties with large contemporaneous changes in their retirement-age population.
+Classification-JEL: Z12, R11, J11, H55
+Keywords: religion, religious adherence, county income, demographics, stacked difference-in-differences
+Creation-Date: 2026-10
+File-URL: https://professorjimothy.github.io/repec/wpaper/mtdwp003.pdf
+File-Format: application/pdf
+File-Function: First version
+Number: 003
+Handle: RePEc:mtd:wpaper:003
